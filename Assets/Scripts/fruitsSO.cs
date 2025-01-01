@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "nuevaFruta")]
-public class Fruits : ScriptableObject
+public class fruitsSO : ScriptableObject
 {
      public string fruit;
-     public int size;
+     public Vector2 size;
      public Sprite fruitPNG;
+     public int level;
+     public GameObject fruitPrefab;
 
 }

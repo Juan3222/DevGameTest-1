@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dba2d968f8899dd47b09035ef25c49db, type: 3}
-  m_Name: Cherrie
+  m_Name: Strawberry
   m_EditorClassIdentifier: 
-  fruit: Cherrie
-  size: {x: 0.3, y: 0.3}
-  fruitPNG: {fileID: 21300000, guid: b29f6905a914fd54cb030259506949b5, type: 3}
-  level: 1
-  fruitPrefab: {fileID: 4513195018681929420, guid: 0d9b862b3f6c38d418abced722e1b279, type: 3}
+  fruit: Strawberry
+  size: {x: 0.2, y: 0.2}
+  fruitPNG: {fileID: 21300000, guid: 0d742cf084210b64c829312eaafde00b, type: 3}
+  level: 2
+  fruitPrefab: {fileID: 4197629846247385240, guid: 56beca102b0c05f4d8f4727d14d90e27, type: 3}
